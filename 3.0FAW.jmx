@@ -10,7 +10,7 @@
       </elementProp>
       <stringProp name="TestPlan.user_define_classpath"></stringProp>
     </TestPlan>
-	<!--V1.1-->
+	<!--V1.3-->
     <hashTree>
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="用户账号接口" enabled="true">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
